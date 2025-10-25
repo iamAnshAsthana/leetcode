@@ -8,4 +8,6 @@ class Solution(object):
         return []
 
 solver = Solution()
+print(f"Output: {solver.twoSum([11, 12, 1, 2], 3)}")
+
 
